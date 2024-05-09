@@ -1,0 +1,41 @@
+{
+    "contacts": {
+        "firstName": "Nillie",
+        "lastName": "Wattson",
+        "email": "nill.wat@yahoo.com",
+        "favoriteColor": "blue",
+        "birthday": "12/12/1990"
+    },
+
+    "contacts2": {
+        "firstName": "Mike",
+        "lastName": "Perkins",
+        "email": "Mike_P@gmail.com",
+        "favoriteColor": "yellow",
+        "birthday": "10/10/1993"
+    },
+
+    "contacts3": {
+        "firstName": "Jill",
+        "lastName": "Lau",
+        "email": "J_lau",
+        "favoriteColor": "orange",
+        "birthday": "03/03/1995"
+    },
+
+    "contacts4": {
+        "firstName": "Blake",
+        "lastName": "Williams",
+        "email": "laserAid34@gmail.com",
+        "favoriteColor": "red",
+        "birthday": "04/04/1994"
+    },
+
+    "contacts5": {
+        "firstName": "Catherine",
+        "lastName": "Bates",
+        "email": "Cat_Bat@hotmail.com",
+        "favoriteColor": "black",
+        "birthday": "12/02/1998"
+    }
+}
